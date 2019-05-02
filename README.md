@@ -28,7 +28,7 @@ pip install -r requirements.txt
 > username = *USERNAME*  
 > password = *PASSWORD*  
 > ip = *SERVER_IP*  
-> database_name = CoinMarketCap  
+> database_name = crypto  
 > collection_name = exchanges  
 * Run
 ```
